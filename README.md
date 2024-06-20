@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobnicked&label=Profile%20views&color=0f0f0f&style=flat" alt="jacobnicked" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jacobnicked" target="blank"><img src="https://img.shields.io/twitter/follow/jacobnicked?logo=twitter&style=for-the-badge" alt="jacobnicked" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jacobnicked" target="blank"><img src="https://img.shields.io/twitter/follow/jacobnicked?logo=twitter&style=for-the-badge" alt="jacobnicked" /></a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
