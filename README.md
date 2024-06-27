@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 👋!</h1>
+<h1 align="center">Welcome 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobnicked&label=Profile%20views&color=0f0f0f&style=flat" alt="jacobnicked" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jacobnicked" target="blank"><img src="https://img.shields.io/twitter/follow/jacobnicked?logo=twitter&style=for-the-badge" alt="jacobnicked" /></a></p>
