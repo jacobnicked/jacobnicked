@@ -23,7 +23,6 @@
 
 - **🌱 I’m currently learning:** JavaScript, PHP (not really)
 - **👨‍💻 All of my projects are available on** [my GitHub](https://github.com/jacobnicked?tab=repositories)
-- **📫 How to reach me** - [here](https://linktr.ee/jacobnicked)
 - **⚡ Fun fact:** Everything about me surprises people
 
 <div id="socialmedia" align="left" />
