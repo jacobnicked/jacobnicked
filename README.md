@@ -69,9 +69,6 @@
     </a> 
 </div>
 
-<!--<h3 align="left">Support:</h3>
-<a href="https://www.buymeacoffee.com/jacobnicked"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jacobnicked" /></a>-->
-
 <br>
 
 <div align="left" />
@@ -79,5 +76,3 @@
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacobnicked&show_icons=true&theme=dark&locale=en&layout=compact" alt="jacobnicked" />
 </div>
-
-<br>
