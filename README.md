@@ -11,7 +11,7 @@
 - **🌱 I’m currently learning:** JavaScript, PHP (not really)
 - **👨‍💻 All of my projects are available on** [my GitHub](https://github.com/jacobnicked?tab=repositories)
 - **⚡ Fun fact:** Everything about me surprises people
-- **🌐 My website**: [jacobnicked.github.io](https://jacobnicked.github.io)
+- **🌐 My website**: [jacobnicked.tech](https://jacobnicked.tech)
 <br>
 <div id="langandtools" align="left" />
   <img src="https://komarev.com/ghpvc/?username=jacobnicked&label=Profile%20views&color=4f8f00&style=plastic" alt="jacobnicked" />
